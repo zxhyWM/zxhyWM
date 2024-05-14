@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F7ECB&center=true&vCenter=true&random=false&width=435&lines=print('Hello%2C+World!'))](https://git.io/typing-svg)
 
 <!--
 **zxhyWM/zxhyWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxhyWM&show_icons=true&center=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxhyWM&center=truelayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F7ECB&center=true&vCenter=true&random=false&width=435&lines=print('Hello%2C+World!')" alt="Typing SVG" />    </a>
+  <div>
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zxhyWM&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=ambient_gradient" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zxhyWM&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=ambient_gradient" /><br>
+
+  </div>
+</div>
